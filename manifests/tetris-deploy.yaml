@@ -1,5 +1,5 @@
 # tetris-deployment.yaml
-
+# 성주껄로 배포+수정할것
 apiVersion: apps/v1
 kind: Deployment
 metadata:
